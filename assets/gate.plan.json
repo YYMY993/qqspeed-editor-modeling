@@ -1,0 +1,14 @@
+{
+  "name": "样间·木门廊",
+  "budget": {"limit": 200, "unit_estimates": {"UGC_Base_001": 20, "UGC_Base_011": 20}, "reserve": 20},
+  "parts": [
+    {"name":"左柱脚","template":"UGC_Base_001","position":[-1.12,0,0.15],"scale":[0.4,0.4,0.3],"color":"#716C62","collision":true},
+    {"name":"右柱脚","template":"UGC_Base_001","position":[1.12,0,0.15],"scale":[0.4,0.4,0.3],"color":"#716C62","collision":true},
+    {"name":"左木柱","template":"UGC_Base_001","position":[-1.12,0,1.35],"scale":[0.25,0.28,2.1],"color":"#8D5538","collision":true},
+    {"name":"右木柱","template":"UGC_Base_001","position":[1.12,0,1.35],"scale":[0.25,0.28,2.1],"color":"#8D5538","collision":true},
+    {"name":"过梁","template":"UGC_Base_001","position":[0,0,2.46],"scale":[2.84,0.34,0.22],"color":"#754934","collision":true},
+    {"name":"檐板","template":"UGC_Base_001","position":[0,0,2.60],"scale":[3.12,1.06,0.10],"color":"#A9764D"},
+    {"name":"屋面","template":"UGC_Base_011","position":[0,0,2.75],"rotation":[0.5,0.5,0.5,0.5],"scale":[1.18,0.40,3.05],"color":"#48595B"},
+    {"name":"匾底","template":"UGC_Base_001","position":[0,-0.2,2.36],"scale":[0.78,0.08,0.27],"color":"#E8D6A8"}
+  ]
+}

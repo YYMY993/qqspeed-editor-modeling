@@ -1,0 +1,540 @@
+{
+  "$format": "AuroraComponentLibraryEntry",
+  "$version": 1,
+  "component": {
+    "$format": "AuroraComponentData",
+    "$version": 5,
+    "Items": [
+      {
+        "$type": "AuItem",
+        "$uid": 10,
+        "Components": [
+          {
+            "$name": "SceneRoot",
+            "$type": "AuSceneComponent",
+            "$uid": 11,
+            "LocalTransform": {
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Rotation": [
+                1,
+                0,
+                0,
+                0
+              ],
+              "Scale": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "$name": "RootMesh",
+            "$type": "AuMeshComponent",
+            "$uid": 12,
+            "MeshResourceID": "asset://Assets/BasicShapes/UGC_Base_001/ugc_base_001.nif"
+          },
+          {
+            "$name": "Collision",
+            "$type": "AuCollisionComponent",
+            "$uid": 13,
+            "CollisionType": 0,
+            "DynamicFriction": 0.0,
+            "Restitution": 0.0,
+            "ShapeHalfExtents": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ShapeHalfHeight": 0.0,
+            "ShapeRadius": 0.0,
+            "ShapeType": 0,
+            "StaticFriction": 0.0,
+            "TargetMeshComponent": "",
+            "bCollisionEnabled": false
+          }
+        ],
+        "RootComponent": {
+          "$ref": 11
+        }
+      },
+      {
+        "$type": "AuItem",
+        "$uid": 20,
+        "Components": [
+          {
+            "$name": "SceneRoot",
+            "$type": "AuSceneComponent",
+            "$uid": 21,
+            "LocalTransform": {
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Rotation": [
+                1,
+                0,
+                0,
+                0
+              ],
+              "Scale": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "$name": "RootMesh",
+            "$type": "AuMeshComponent",
+            "$uid": 22,
+            "MeshResourceID": "asset://Assets/BasicShapes/UGC_Base_003/ugc_base_003.nif"
+          },
+          {
+            "$name": "Collision",
+            "$type": "AuCollisionComponent",
+            "$uid": 23,
+            "CollisionType": 0,
+            "DynamicFriction": 0.0,
+            "Restitution": 0.0,
+            "ShapeHalfExtents": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ShapeHalfHeight": 0.0,
+            "ShapeRadius": 0.0,
+            "ShapeType": 0,
+            "StaticFriction": 0.0,
+            "TargetMeshComponent": "",
+            "bCollisionEnabled": false
+          }
+        ],
+        "RootComponent": {
+          "$ref": 21
+        }
+      },
+      {
+        "$type": "AuItem",
+        "$uid": 30,
+        "Components": [
+          {
+            "$name": "SceneRoot",
+            "$type": "AuSceneComponent",
+            "$uid": 31,
+            "LocalTransform": {
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Rotation": [
+                1,
+                0,
+                0,
+                0
+              ],
+              "Scale": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "$name": "RootMesh",
+            "$type": "AuMeshComponent",
+            "$uid": 32,
+            "MeshResourceID": "asset://Assets/BasicShapes/UGC_Base_008/ugc_base_008.nif"
+          },
+          {
+            "$name": "Collision",
+            "$type": "AuCollisionComponent",
+            "$uid": 33,
+            "CollisionType": 0,
+            "DynamicFriction": 0.0,
+            "Restitution": 0.0,
+            "ShapeHalfExtents": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ShapeHalfHeight": 0.0,
+            "ShapeRadius": 0.0,
+            "ShapeType": 0,
+            "StaticFriction": 0.0,
+            "TargetMeshComponent": "",
+            "bCollisionEnabled": false
+          }
+        ],
+        "RootComponent": {
+          "$ref": 31
+        }
+      },
+      {
+        "$type": "AuItem",
+        "$uid": 40,
+        "Components": [
+          {
+            "$name": "SceneRoot",
+            "$type": "AuSceneComponent",
+            "$uid": 41,
+            "LocalTransform": {
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Rotation": [
+                1,
+                0,
+                0,
+                0
+              ],
+              "Scale": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "$name": "RootMesh",
+            "$type": "AuMeshComponent",
+            "$uid": 42,
+            "MeshResourceID": "asset://Assets/BasicShapes/UGC_Base_011/ugc_base_011.nif"
+          },
+          {
+            "$name": "Collision",
+            "$type": "AuCollisionComponent",
+            "$uid": 43,
+            "CollisionType": 0,
+            "DynamicFriction": 0.0,
+            "Restitution": 0.0,
+            "ShapeHalfExtents": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ShapeHalfHeight": 0.0,
+            "ShapeRadius": 0.0,
+            "ShapeType": 0,
+            "StaticFriction": 0.0,
+            "TargetMeshComponent": "",
+            "bCollisionEnabled": false
+          }
+        ],
+        "RootComponent": {
+          "$ref": 41
+        }
+      },
+      {
+        "$type": "AuItem",
+        "$uid": 50,
+        "Components": [
+          {
+            "$name": "SceneRoot",
+            "$type": "AuSceneComponent",
+            "$uid": 51,
+            "LocalTransform": {
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Rotation": [
+                1,
+                0,
+                0,
+                0
+              ],
+              "Scale": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "$name": "TextMesh",
+            "$type": "AuTextMeshComponent",
+            "$uid": 52,
+            "AlignmentValue": 1,
+            "BillboardValue": 0,
+            "FontPath": "",
+            "FontSize": 48,
+            "MaxWidth": 0.0,
+            "Text": "Text",
+            "TextColor": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "VerticalSpacingScale": 1,
+            "bVerticalDisplay": false
+          },
+          {
+            "$name": "Collision",
+            "$type": "AuCollisionComponent",
+            "$uid": 53,
+            "CollisionType": 0,
+            "DynamicFriction": 0.0,
+            "Restitution": 0.0,
+            "ShapeHalfExtents": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ShapeHalfHeight": 0.0,
+            "ShapeRadius": 0.0,
+            "ShapeType": 0,
+            "StaticFriction": 0.0,
+            "TargetMeshComponent": "",
+            "bCollisionEnabled": false
+          }
+        ],
+        "RootComponent": {
+          "$ref": 51
+        }
+      },
+      {
+        "$type": "AuGroupItem",
+        "$uid": 100,
+        "Components": [
+          {
+            "$name": "AuSceneComponent_0",
+            "$type": "AuSceneComponent",
+            "$uid": 101
+          }
+        ],
+        "RootComponent": {
+          "$ref": 101
+        }
+      }
+    ]
+  },
+  "spawn": {
+    "$format": "AuroraSpawnData",
+    "$version": 5,
+    "SceneName": "PlayScene",
+    "Items": [
+      {
+        "$template": "UGC_Base_001",
+        "$type": "AuItem",
+        "$uid": 10,
+        "Active": true,
+        "Name": "Box",
+        "Properties": {},
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        "Material": {
+          "TintColor": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "$template": "UGC_Base_003",
+        "$type": "AuItem",
+        "$uid": 20,
+        "Active": true,
+        "Name": "Sphere",
+        "Properties": {},
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        "Material": {
+          "TintColor": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "$template": "UGC_Base_008",
+        "$type": "AuItem",
+        "$uid": 30,
+        "Active": true,
+        "Name": "Cylinder",
+        "Properties": {},
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        "Material": {
+          "TintColor": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "$template": "UGC_Base_011",
+        "$type": "AuItem",
+        "$uid": 40,
+        "Active": true,
+        "Name": "Triangular prism",
+        "Properties": {},
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        "Material": {
+          "TintColor": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "Barycenter": [
+          0.0,
+          -0.333304,
+          0.0
+        ]
+      },
+      {
+        "$template": "Text",
+        "$type": "AuItem",
+        "$uid": 50,
+        "Active": true,
+        "Name": "Text",
+        "Properties": {},
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        "Barycenter": [
+          -0.02252025,
+          0.0,
+          -0.18053567
+        ]
+      },
+      {
+        "$type": "AuGroupItem",
+        "$uid": 100,
+        "Active": true,
+        "Children": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "Name": "Primitives",
+        "NextCompIndex": 1,
+        "Properties": {
+          "ComponentLibraryFileName": ""
+        },
+        "Transform": {
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "Scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    ]
+  },
+  "manifest": {
+    "Name": "Primitives",
+    "RootGroupName": "Primitives"
+  }
+}
