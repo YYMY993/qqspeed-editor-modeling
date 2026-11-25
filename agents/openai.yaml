@@ -1,0 +1,4 @@
+interface:
+  display_name: "QQ 飞车编辑器建模"
+  short_description: "按参考图制作原生组合、估算地图占用、预览实际几何并在构建区拖放。"
+  default_prompt: "使用 $qqspeed-editor-modeling，按我的参考和预算制作可拖入 QQ 飞车编辑器的原生组件，并展示从组件文件生成的预览。"
